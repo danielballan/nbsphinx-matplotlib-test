@@ -10,6 +10,8 @@ Welcome to nbsphinx-test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   test_matplotlib_inline.ipynb
+   test_matplotlib_widget.ipynb
 
 
 Indices and tables
